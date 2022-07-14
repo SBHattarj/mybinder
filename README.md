@@ -1,3 +1,3 @@
 # mybinder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SBHattarj/mybinder/Main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SBHattarj/mybinder/main)
